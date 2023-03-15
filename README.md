@@ -1,2 +1,2 @@
 # BART-BO
-Bayesian Optimization of the BART model. 
+Bayesian Optimization using the Bayesian Additive Regression Trees (BART) model. 
