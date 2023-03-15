@@ -153,7 +153,7 @@ while (s < maxiter){   # mejora < eps...
   s <- s + 1
 }
 
-
+##################################################################################
 #while (s < maxiter){   # mejora < eps...
   
   # Fitting BART model
